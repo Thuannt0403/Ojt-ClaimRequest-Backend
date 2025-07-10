@@ -1,4 +1,4 @@
-![Claim Request System](https://res.cloudinary.com/crs2025/image/upload/v1743237101/CRSLogo_h5s8ez.png)
+![Claim Request System]
 
 <div align="center">
 
